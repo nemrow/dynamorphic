@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Dynamorphic::VERSION
   s.authors     = ["Nemrow"]
   s.email       = ["nemrowj@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Dynamorphic."
-  s.description = "TODO: Description of Dynamorphic."
+  s.homepage    = "https://github.com/nemrow/dynamorphic"
+  s.summary     = "Reverse Polymorphic Associations"
+  s.description = "Reverse Polymorphic Associations"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
